@@ -1,0 +1,1 @@
+Length of the side of the triangle must be greater that 0

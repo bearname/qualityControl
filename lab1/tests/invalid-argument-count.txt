@@ -1,0 +1,2 @@
+Invalid argument count
+Usage: triangle.jar <a> <b> <c>
